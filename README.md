@@ -1,0 +1,2 @@
+# Transformer
+基于pytorch的手写transformer架构，包括数据处理，mask和PAD的添加，以及transformer主体的训练及预测部分（使用网络上自制的小数据集）
